@@ -37,4 +37,4 @@ OpenVPN server in a Docker container complete with an EasyRSA PKI CA.
 
 * Run openvpn as daemon on client machine:
 
-      openvpn --config CLIENTNAME.conf --daemon
+      openvpn --config CLIENTNAME.ovpn --daemon
